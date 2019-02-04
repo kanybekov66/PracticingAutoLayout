@@ -18,7 +18,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" text="Anime drama. Everyone must see it." textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="e8J-53-Axm">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" text="Anime drama. Everyone must see it." textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="e8J-53-Axm">
                                 <rect key="frame" x="16" y="175" width="288" height="84"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
@@ -80,7 +80,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" text="App is useless. I'm just demonstrating my Auto Layout skills." textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="x56-is-gt0">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" text="App is useless. I'm just demonstrating my Auto Layout skills." textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="x56-is-gt0">
                                 <rect key="frame" x="16" y="175" width="288" height="84"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
@@ -254,7 +254,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" text="God of Death got bored and it started doing some shit." textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="rjO-SZ-jpX">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" text="God of Death got bored and it started doing some shit." textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="rjO-SZ-jpX">
                                 <rect key="frame" x="16" y="175" width="288" height="84"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
@@ -341,7 +341,7 @@
                                     <action selector="close" destination="OvC-oH-kUb" eventType="touchUpInside" id="8RF-15-3Km"/>
                                 </connections>
                             </button>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" text="He is the strongest creature known to universe. And he is being hero for fun" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="JHX-kO-2nW">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" text="He is the strongest creature known to universe. And he is being hero for fun" textAlignment="center" translatesAutoresizingMaskIntoConstraints="NO" id="JHX-kO-2nW">
                                 <rect key="frame" x="16" y="175" width="288" height="84"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
