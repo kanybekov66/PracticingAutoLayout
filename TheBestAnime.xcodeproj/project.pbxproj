@@ -12,6 +12,10 @@
 		5E9F6DFE22074BA100FBA8EC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E9F6DFC22074BA100FBA8EC /* Main.storyboard */; };
 		5E9F6E0022074BA200FBA8EC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E9F6DFF22074BA200FBA8EC /* Assets.xcassets */; };
 		5E9F6E0322074BA200FBA8EC /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E9F6E0122074BA200FBA8EC /* LaunchScreen.storyboard */; };
+		5E9F6E0B2208751000FBA8EC /* OnePunchManViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E9F6E0A2208751000FBA8EC /* OnePunchManViewController.swift */; };
+		5E9F6E0D22088E1400FBA8EC /* YourNameViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E9F6E0C22088E1400FBA8EC /* YourNameViewController.swift */; };
+		5E9F6E0F2208913F00FBA8EC /* DeathNoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E9F6E0E2208913F00FBA8EC /* DeathNoteViewController.swift */; };
+		5E9F6E11220893A000FBA8EC /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E9F6E10220893A000FBA8EC /* AboutViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +26,10 @@
 		5E9F6DFF22074BA200FBA8EC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5E9F6E0222074BA200FBA8EC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5E9F6E0422074BA200FBA8EC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5E9F6E0A2208751000FBA8EC /* OnePunchManViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnePunchManViewController.swift; sourceTree = "<group>"; };
+		5E9F6E0C22088E1400FBA8EC /* YourNameViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = YourNameViewController.swift; sourceTree = "<group>"; };
+		5E9F6E0E2208913F00FBA8EC /* DeathNoteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeathNoteViewController.swift; sourceTree = "<group>"; };
+		5E9F6E10220893A000FBA8EC /* AboutViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +65,10 @@
 				5E9F6DF822074BA100FBA8EC /* AppDelegate.swift */,
 				5E9F6DFA22074BA100FBA8EC /* ViewController.swift */,
 				5E9F6DFC22074BA100FBA8EC /* Main.storyboard */,
+				5E9F6E10220893A000FBA8EC /* AboutViewController.swift */,
+				5E9F6E0E2208913F00FBA8EC /* DeathNoteViewController.swift */,
+				5E9F6E0C22088E1400FBA8EC /* YourNameViewController.swift */,
+				5E9F6E0A2208751000FBA8EC /* OnePunchManViewController.swift */,
 				5E9F6DFF22074BA200FBA8EC /* Assets.xcassets */,
 				5E9F6E0122074BA200FBA8EC /* LaunchScreen.storyboard */,
 				5E9F6E0422074BA200FBA8EC /* Info.plist */,
@@ -135,7 +147,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5E9F6E11220893A000FBA8EC /* AboutViewController.swift in Sources */,
+				5E9F6E0F2208913F00FBA8EC /* DeathNoteViewController.swift in Sources */,
 				5E9F6DFB22074BA100FBA8EC /* ViewController.swift in Sources */,
+				5E9F6E0B2208751000FBA8EC /* OnePunchManViewController.swift in Sources */,
+				5E9F6E0D22088E1400FBA8EC /* YourNameViewController.swift in Sources */,
 				5E9F6DF922074BA100FBA8EC /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
